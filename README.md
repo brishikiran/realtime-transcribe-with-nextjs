@@ -3,7 +3,6 @@
 
 This application allows users to record their voice and receive a real-time transcript displayed on the screen. It's built using Next.js and utilizes Web Speech API for recording and speech recognition.
 
-![App Demo](https://tyhgectxutilszaayoua.supabase.co/storage/v1/object/public/misc/voice-gif.gif) 
 
 ## Table of Contents
 
@@ -13,13 +12,8 @@ This application allows users to record their voice and receive a real-time tran
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-- [Built with](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Demo
 
-![App Demo](https://tyhgectxutilszaayoua.supabase.co/storage/v1/object/public/misc/voice-gif.gif)
 
 ## Features
 
@@ -80,16 +74,6 @@ Follow these instructions to get the project up and running on your local machin
 - [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) - Used for recording and speech recognition.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for styling.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or want to enhance the app, feel free to submit a pull request.
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push the changes to your fork.
-5. Submit a pull request describing your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
